@@ -22,10 +22,10 @@ The project can be accessed from [this link](https://bref-madame-10247.herokuapp
 <a name="usage"></a>
 ## Usage
 
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+![Screenshot](./assets/images/Screen%20Shot%202022-07-15%20at%2011.21.53%20AM.png)
+![Screenshot](./assets/images/Screen%20Shot%202022-07-15%20at%2011.23.15%20AM.png)
+![Screenshot](./assets/images/Screen%20Shot%202022-07-15%20at%2011.25.19%20AM.png)
+![Screenshot](./assets/images/Screen%20Shot%202022-07-15%20at%2011.23.46%20AM.png)
     
 <a name="license"></a>
 ## License
