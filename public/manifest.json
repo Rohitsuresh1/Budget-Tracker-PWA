@@ -41,8 +41,8 @@
             "type": "image/png"
         }
     ],
-    "name": "Budget Tracker-PWA",
-    "short_name": "Budget Track",
+    "name": "BudgetTrackerPWA",
+    "short_name": "BudgetTrack",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "/",
