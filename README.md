@@ -17,7 +17,7 @@ This is a simple but a progressive web application that uses the concept of serv
   
 <a name="inst"></a>
 ## Installation
-The project can be accessed from [This link](https://bref-madame-10247.herokuapp.com). or can be cloned from this repository. Don't forget to install the dependancies using `npm i` command and the app can be launched using `npm start` command.
+The project can be accessed from [this link](https://bref-madame-10247.herokuapp.com). or can be cloned from this repository. Don't forget to install the dependancies using `npm i` command and the app can be launched using `npm start` command.
 
 <a name="usage"></a>
 ## Usage
